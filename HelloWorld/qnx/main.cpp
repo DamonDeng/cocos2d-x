@@ -1,3 +1,8 @@
+/***********************
+ * Testing modifying by Damon Deng
+ */
+
+
 #include "cocos2d.h"
 #include "AppDelegate.h"
 
